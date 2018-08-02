@@ -24,6 +24,7 @@ ModelImporter:
     4300000: SketchUp
     4300002: ID11
     4300004: ID17
+    11100000: //RootNode
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -104,7 +105,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
